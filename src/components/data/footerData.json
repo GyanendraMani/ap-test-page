@@ -1,0 +1,108 @@
+[
+  {
+    "title": "LIVE EVENTS",
+    "subMenu": [
+      {
+        "title": "Gita Samagam",
+        "url": "https://acharyaprashant.org/en/gita"
+      },
+      {
+        "title": "Vedanta: Basics to Classics",
+        "url": "https://acharyaprashant.org/en/vedanta-basics-to-classics"
+      }
+    ]
+  },
+  {
+    "title": "WISDOM CONTENT",
+    "subMenu": [
+      {
+        "title": "Video Series",
+        "url": "https://acharyaprashant.org/en/video-modules"
+      },
+      {
+        "title": "AP Books",
+        "url": "https://acharyaprashant.org/en/ap-books"
+      },
+      {
+        "title": "AP Articles",
+        "url": "https://acharyaprashant.org/en/ap-articles"
+      },
+      {
+        "title": "AP Circle",
+        "url": "https://acharyaprashant.org/en/ap-circle"
+      }
+    ]
+  },
+  {
+    "title": "MORE",
+    "subMenu": [
+      {
+        "title": "About Acharya Prashant",
+        "url": "https://acharyaprashant.org/en/about"
+      },
+      {
+        "title": "Invite Him",
+        "url": "https://acharyaprashant.org/en/invite?tIn=0"
+      },
+      {
+        "title": "Interview Him",
+        "url": "https://acharyaprashant.org/en/ap-circle"
+      },
+      {
+        "title": "Ghar Ghar Upanishad",
+        "url": "https://acharyaprashant.org/en/ap-circle"
+      },
+      {
+        "title": "Media and Public Interaction",
+        "url": "https://acharyaprashant.org/en/ap-circle"
+      }
+    ]
+  },
+  {
+    "title": "SOCIAL MEDIA",
+    "subMenu": [
+      {
+        "title": "For English",
+        "social_media": []
+      },
+      {
+        "title": "For Hindi",
+        "social_media": []
+      }
+    ]
+  },
+  {
+    "title": "DOWNLOAD APP",
+    "subMenu": [
+      {
+        "title": "Acharya Prashant",
+        "ur": "#"
+      },
+      {
+        "title": "Google Play store",
+        "ur": "#"
+      },
+      {
+        "title": "Ios store",
+        "ur": "#"
+      }
+    ]
+  },
+  {
+    "title": "CONTACT US",
+    "subMenu": [
+      {
+        "title": "support@advait.org.in",
+        "ur": "#"
+      },
+      {
+        "title": "+91 9650585100",
+        "ur": "#"
+      },
+      {
+        "title": "+91 9650585100",
+        "ur": "#"
+      }
+    ]
+  }
+]
